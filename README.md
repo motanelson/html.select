@@ -1,2 +1,1 @@
-# spain.gui.editor
-spain.gui.editor gui spain corrector
+select text from a donwload page
